@@ -57,4 +57,4 @@ def send_msg(message):
 
 offset = 0
 
-while True:  
+while True:   
